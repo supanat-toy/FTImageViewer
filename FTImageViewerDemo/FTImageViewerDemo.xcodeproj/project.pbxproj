@@ -190,7 +190,7 @@
 				TargetAttributes = {
 					5AEFDF411CF0AD380081F07F = {
 						CreatedOnToolsVersion = 7.3.1;
-						DevelopmentTeam = E83AC9WR2F;
+						DevelopmentTeam = 626537ZQZX;
 						LastSwiftMigration = 0810;
 						ProvisioningStyle = Automatic;
 					};
@@ -407,9 +407,9 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CLANG_ENABLE_MODULES = YES;
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
-				DEVELOPMENT_TEAM = E83AC9WR2F;
+				DEVELOPMENT_TEAM = 626537ZQZX;
 				INFOPLIST_FILE = FTImageViewerDemo/Info.plist;
-				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.liufengting.FTImageViewer;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -427,9 +427,9 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CLANG_ENABLE_MODULES = YES;
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
-				DEVELOPMENT_TEAM = E83AC9WR2F;
+				DEVELOPMENT_TEAM = 626537ZQZX;
 				INFOPLIST_FILE = FTImageViewerDemo/Info.plist;
-				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.liufengting.FTImageViewer;
 				PRODUCT_NAME = "$(TARGET_NAME)";
